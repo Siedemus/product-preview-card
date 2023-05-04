@@ -77,7 +77,10 @@
 
 .article__button:hover {
     background-color: var(--darkGreen-color);
+}
 
+.article__button:focus {
+    background-color: var(--darkGreen-color);
 }
 
 @media (min-width: 600px) {
