@@ -24,6 +24,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- CSS Reset by [Josh Comeau](https://www.joshwcomeau.com/css/custom-css-reset/)
 
 ### What I learned
 
