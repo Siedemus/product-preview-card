@@ -3,6 +3,7 @@
     --black-color: hsl(212, 21%, 14%);
     --green-color: hsl(158, 36%, 37%);
     --darkGreen-color: hsl(158, 36%, 20%);
+    --crimson-color: hsl(348, 83%, 47%);
     --ff-font: Fraunces, sans-serif;
 }
 
@@ -94,7 +95,7 @@
 
 .footer a {
     text-decoration: none;
-    color: crimson;
+    color: var(--crimson-color);
     transition: filter 1s;
 }
 
